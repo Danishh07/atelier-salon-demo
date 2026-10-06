@@ -6,7 +6,6 @@ const navItems = [
   { label: "About", href: "#about" },
   { label: "Services", href: "#services" },
   { label: "The Studio", href: "#studio" },
-  { label: "Journal", href: "#journal" },
 ];
 
 const softEase = [0.22, 1, 0.36, 1];

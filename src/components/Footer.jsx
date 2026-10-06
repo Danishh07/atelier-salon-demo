@@ -2,7 +2,6 @@ const footerLinks = [
   { label: 'About', href: '#about' },
   { label: 'Services', href: '#services' },
   { label: 'The Studio', href: '#studio' },
-  { label: 'Journal', href: '#journal' },
 ]
 
 export default function Footer() {
